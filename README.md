@@ -13,7 +13,7 @@ macOS GUI executable version of Windows PowerShell Script LanList.ps1
 
 ## 📝 **Synopsis**
 
-**LANList.ps1** is a PowerShell script that generates a report for all LAN machines. It collects IP addresses, MAC addresses, open ports, logged-in users, and the status of critical services like Remote Access and Windows Event Log. 
+**LANList.ps1** is a PowerShell script that generates a report for all LAN machines. It collects IP addresses, MAC addresses, open ports, logged-in users, and the status of critical services like Remote Access and Windows Event Log. **LANListOSX** interferfaces with the darwin kernel with shell commands to provide the same from a macOS workstation.
 
 ---
 
