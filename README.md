@@ -1,4 +1,6 @@
 # **LANListOSX**
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 macOS GUI executable version of Windows PowerShell Script LanList.ps1
 
 
