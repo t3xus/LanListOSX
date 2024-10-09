@@ -1,5 +1,8 @@
 # **LANListOSX**
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Author-Jgooch-1F4D37)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Static Badge](https://img.shields.io/badge/Distribution-npm-orange)
+![Target](https://img.shields.io/badge/Target-macOS-cccccc)
 
 macOS GUI executable version of Windows PowerShell Script LanList.ps1
 
