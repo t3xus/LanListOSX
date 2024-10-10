@@ -6,5 +6,4 @@
 
 macOS GUI executable version of Windows PowerShell Script LanList.ps1
 
-**LANListOSX** interferfaces with the darwin kernel with shell commands to provide the same from a macOS workstation.
 
